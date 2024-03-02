@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "126042408871",
+    "project_id": "gamesglobalchallenge",
+    "storage_bucket": "gamesglobalchallenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126042408871:android:82819ed403e7f331e59882",
+        "android_client_info": {
+          "package_name": "com.example.hello"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFLy-1gm11ggvm4YPlDTVlIazzGz4RCtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
